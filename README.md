@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là <Võ Hiếu Quý>, MSSV <221828.
+Đây là README từ nhánh main.
