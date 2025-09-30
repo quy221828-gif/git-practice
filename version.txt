@@ -1,2 +1,3 @@
-Version 2.0
+Đây là thay đổi từ main
 Đây là thay đổi từ feature-branch
+Đây là thay đổi từ main và feature-branch
